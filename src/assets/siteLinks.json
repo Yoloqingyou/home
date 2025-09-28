@@ -1,37 +1,32 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
-  },
-  {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "顷酉网盘",
+    "link": "https://pan.586226.xyz/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "AppStore",
+    "name": "顷酉软件源",
+    "link": "https://app.586226.xyz/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
+    "icon": "Apple",
+    "name": "购买iOS证书",
+    "link": "https://www.kajishou.com/shop/qingyou"
+  },
+  {
+    "icon": "FileSignature",
+    "name": "兑换证书",
     "link": "https://nav.imsyy.top/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
+    "icon": "LaptopCode",
+    "name": "网站状态",
     "link": "https://web.imsyy.top/"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "SimCard",
+    "name": "大流量卡",
+    "link": "https://haokawx.lot-ml.com/Product/Index/114096"
   }
 ]
