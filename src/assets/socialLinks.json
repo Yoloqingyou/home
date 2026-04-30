@@ -9,13 +9,13 @@
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-    "url": "mailto:yoloqingyou@gmail.com"
+    "url": "/"
   },
   {
     "name": "Github",
     "icon": "/images/icon/github.png",
     "tip": "去 Github 看看",
-    "url": "https://github.com/yoloqingyou"
+    "url": "/"
   },
   {
     "name": "BiliBili",
